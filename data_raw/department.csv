@@ -1,0 +1,8 @@
+dept_id,dept_name,cost_center
+1,Sales,CC100
+2,Engineering,CC101
+3,HR,CC102
+4,Finance,CC103
+5,Operations,CC104
+6,Support,CC105
+7,Marketing,CC106

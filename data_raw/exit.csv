@@ -1,0 +1,238 @@
+emp_id,exit_date,exit_reason,is_voluntary,is_regretted,tenure_months,replacement_cost
+1,2025-01-25,Better Compensation,1,0,59,35958.0
+4,2025-02-09,Work-Life Balance,1,0,0,12540.0
+19,2025-09-26,Long Commute,1,0,40,12168.0
+27,2026-01-06,Better Compensation,1,1,58,20442.0
+31,2026-06-19,Manager Issues,1,0,46,17760.0
+33,2025-10-25,Performance Termination,0,0,111,23514.0
+42,2026-09-24,Better Compensation,1,0,14,12516.0
+45,2026-01-14,Better Compensation,1,0,15,13758.0
+47,2026-08-07,Performance Termination,0,0,40,16098.0
+55,2026-07-13,Relocation,1,0,18,13758.0
+58,2025-04-29,Relocation,1,1,254,117270.0
+64,2026-01-26,Personal Reasons,1,1,11,32286.0
+65,2026-02-17,Layoff / Restructuring,0,0,23,20646.0
+90,2026-10-09,Performance Termination,0,0,19,20328.0
+118,2026-04-05,Manager Issues,1,1,110,57714.0
+133,2026-01-31,Work-Life Balance,1,1,36,12438.0
+137,2026-01-16,Personal Reasons,1,0,3,17556.0
+142,2026-01-29,Long Commute,1,0,70,34464.0
+147,2026-04-20,Work-Life Balance,1,1,103,36444.0
+161,2026-08-25,Manager Issues,1,0,63,29778.0
+163,2026-04-28,Work-Life Balance,1,0,88,37032.0
+165,2026-03-05,Personal Reasons,1,1,475,61872.0
+167,2025-09-17,Better Compensation,1,0,0,10050.0
+175,2025-06-28,Work-Life Balance,1,0,10,27354.0
+179,2026-02-21,Relocation,1,1,46,63900.0
+190,2025-08-08,Manager Issues,1,1,51,25200.0
+235,2025-03-04,Long Commute,1,1,0,13950.0
+243,2026-04-04,Manager Issues,1,1,14,6612.0
+248,2026-05-13,Long Commute,1,1,50,18840.0
+261,2025-10-03,Personal Reasons,1,0,4,35496.0
+282,2026-06-15,Work-Life Balance,1,0,9,40038.0
+283,2026-10-08,Better Compensation,1,1,121,45834.0
+291,2026-02-02,Performance Termination,0,0,162,62400.0
+297,2026-03-16,Work-Life Balance,1,0,53,15942.0
+299,2025-08-29,Work-Life Balance,1,0,63,40176.0
+300,2026-07-20,Better Compensation,1,0,73,12348.0
+315,2026-01-22,Relocation,1,0,43,14334.0
+325,2025-12-02,Performance Termination,0,0,49,14616.0
+328,2025-08-13,Career Growth,1,1,100,16242.0
+331,2026-07-22,Relocation,1,0,39,22380.0
+342,2026-06-27,Career Growth,1,1,17,60288.0
+355,2026-02-06,Long Commute,1,0,54,20874.0
+364,2025-11-17,Better Compensation,1,0,0,20910.0
+376,2026-09-17,Long Commute,1,1,125,71094.0
+392,2025-05-03,Long Commute,1,1,0,18966.0
+394,2026-06-20,Manager Issues,1,0,39,14238.0
+401,2025-06-09,Work-Life Balance,1,0,85,34968.0
+405,2025-04-06,Better Compensation,1,0,0,8520.0
+433,2026-04-27,Career Growth,1,0,95,29646.0
+440,2025-06-13,Work-Life Balance,1,0,21,20784.0
+445,2025-11-21,Performance Termination,0,0,8,31428.0
+454,2026-09-24,Long Commute,1,0,84,12714.0
+478,2025-02-28,Better Compensation,1,0,17,13044.0
+485,2025-12-06,Better Compensation,1,0,3,17106.0
+488,2026-06-13,Relocation,1,0,100,56130.0
+492,2025-03-29,Work-Life Balance,1,0,53,38280.0
+494,2026-08-16,Performance Termination,0,0,10,16296.0
+502,2025-06-01,Performance Termination,0,0,48,31824.0
+510,2025-03-07,Relocation,1,1,61,18612.0
+514,2025-10-18,Work-Life Balance,1,1,2,13710.0
+538,2025-09-12,Manager Issues,1,0,10,24186.0
+554,2026-01-16,Career Growth,1,0,56,19212.0
+555,2025-05-01,Better Compensation,1,0,12,14106.0
+565,2026-08-18,Career Growth,1,0,25,15276.0
+566,2025-04-08,Work-Life Balance,1,0,3,15384.0
+582,2025-07-06,Career Growth,1,1,69,81660.0
+584,2026-07-15,Relocation,1,0,49,20448.0
+587,2026-06-21,Career Growth,1,1,17,58944.0
+590,2025-05-11,Work-Life Balance,1,1,25,59700.0
+593,2025-06-25,Career Growth,1,0,16,23364.0
+608,2026-03-31,Work-Life Balance,1,0,80,16446.0
+614,2026-07-25,Better Compensation,1,0,3,11268.0
+622,2026-10-18,Better Compensation,1,0,20,14040.0
+631,2025-03-04,Work-Life Balance,1,0,32,28242.0
+647,2026-05-08,Personal Reasons,1,0,75,17316.0
+648,2026-10-26,Performance Termination,0,0,18,12198.0
+650,2026-10-11,Relocation,1,0,44,25398.0
+667,2025-04-16,Manager Issues,1,0,32,18246.0
+684,2026-07-27,Work-Life Balance,1,0,13,25716.0
+701,2026-07-28,Performance Termination,0,0,15,6054.0
+702,2025-12-31,Work-Life Balance,1,0,111,20088.0
+720,2026-01-21,Performance Termination,0,0,24,27462.0
+723,2026-04-01,Work-Life Balance,1,0,43,40776.0
+741,2025-05-17,Relocation,1,0,70,13296.0
+752,2025-02-26,Work-Life Balance,1,0,7,16554.0
+780,2025-05-08,Relocation,1,0,105,16116.0
+785,2025-03-04,Performance Termination,0,0,45,38382.0
+787,2026-02-05,Work-Life Balance,1,1,56,119154.0
+796,2025-09-26,Work-Life Balance,1,0,35,31956.0
+811,2025-08-10,Work-Life Balance,1,1,0,9606.0
+816,2025-06-18,Performance Termination,0,0,0,13914.0
+819,2026-01-07,Personal Reasons,1,0,34,31944.0
+825,2026-09-15,Performance Termination,0,0,378,115476.0
+828,2026-05-15,Personal Reasons,1,0,25,26292.0
+840,2025-02-14,Layoff / Restructuring,0,0,96,45924.0
+842,2026-05-27,Better Compensation,1,0,107,30960.0
+848,2026-05-31,Better Compensation,1,0,96,14196.0
+881,2026-09-08,Performance Termination,0,0,123,12132.0
+896,2025-03-13,Better Compensation,1,0,21,16800.0
+911,2025-12-06,Work-Life Balance,1,1,4,16770.0
+918,2025-04-06,Performance Termination,0,0,0,14280.0
+922,2025-01-16,Better Compensation,1,0,4,12264.0
+923,2025-08-06,Performance Termination,0,0,7,16158.0
+926,2026-07-04,Performance Termination,0,0,33,25026.0
+927,2026-01-17,Better Compensation,1,0,77,16668.0
+932,2026-08-14,Relocation,1,1,27,14424.0
+952,2026-04-17,Long Commute,1,0,13,14478.0
+959,2025-01-30,Long Commute,1,0,0,12726.0
+960,2026-08-08,Better Compensation,1,0,10,17838.0
+967,2025-05-09,Manager Issues,1,1,179,61950.0
+970,2025-11-09,Career Growth,1,1,160,63654.0
+977,2026-05-11,Manager Issues,1,1,6,14874.0
+986,2025-02-22,Work-Life Balance,1,1,0,79164.0
+991,2025-03-04,Relocation,1,1,21,13926.0
+994,2025-06-24,Better Compensation,1,1,0,14424.0
+1004,2025-02-11,Manager Issues,1,0,48,12792.0
+1010,2026-07-15,Work-Life Balance,1,1,53,22458.0
+1016,2026-09-01,Personal Reasons,1,0,13,15600.0
+1017,2026-08-14,Relocation,1,0,37,14532.0
+1033,2025-11-02,Better Compensation,1,0,9,28662.0
+1037,2026-04-23,Manager Issues,1,0,24,29814.0
+1038,2026-07-02,Performance Termination,0,0,384,119070.0
+1042,2026-09-18,Relocation,1,0,212,16458.0
+1052,2025-07-21,Work-Life Balance,1,0,0,29004.0
+1053,2025-09-14,Career Growth,1,0,32,12252.0
+1077,2025-05-17,Performance Termination,0,0,10,13938.0
+1079,2025-08-31,Long Commute,1,0,0,8496.0
+1081,2026-02-06,Better Compensation,1,0,117,14766.0
+1082,2025-06-03,Manager Issues,1,1,110,52332.0
+1098,2025-02-15,Better Compensation,1,1,220,62892.0
+1100,2025-07-04,Work-Life Balance,1,1,85,57492.0
+1101,2025-03-24,Long Commute,1,1,140,27048.0
+1106,2025-04-24,Performance Termination,0,0,72,22146.0
+1107,2025-01-23,Long Commute,1,1,0,14262.0
+1108,2026-08-11,Long Commute,1,1,24,13878.0
+1111,2025-05-08,Long Commute,1,0,0,15576.0
+1113,2026-04-21,Work-Life Balance,1,0,2,28368.0
+1127,2025-10-11,Better Compensation,1,1,207,73014.0
+1156,2026-06-18,Better Compensation,1,0,3,11424.0
+1157,2025-04-22,Layoff / Restructuring,0,0,47,49344.0
+1160,2026-01-23,Performance Termination,0,0,18,15660.0
+1165,2025-02-15,Long Commute,1,1,117,44016.0
+1167,2026-10-14,Work-Life Balance,1,1,258,82548.0
+1175,2025-08-06,Better Compensation,1,0,5,15090.0
+1188,2026-06-13,Performance Termination,0,0,49,32076.0
+1200,2026-02-11,Work-Life Balance,1,0,69,17616.0
+1203,2025-07-05,Work-Life Balance,1,0,0,17118.0
+1210,2025-05-24,Better Compensation,1,0,0,12642.0
+1219,2026-02-01,Better Compensation,1,0,7,13260.0
+1248,2026-09-22,Work-Life Balance,1,1,12,11154.0
+1273,2026-07-20,Career Growth,1,0,12,6708.0
+1277,2025-02-10,Personal Reasons,1,1,271,112944.0
+1279,2026-03-03,Relocation,1,1,20,15750.0
+1295,2025-10-23,Performance Termination,0,0,111,47868.0
+1299,2026-03-02,Manager Issues,1,0,81,20034.0
+1309,2026-01-18,Manager Issues,1,0,115,29298.0
+1310,2026-10-22,Career Growth,1,0,68,23424.0
+1318,2025-03-27,Better Compensation,1,1,42,54564.0
+1319,2026-04-05,Manager Issues,1,1,94,50676.0
+1331,2026-07-06,Work-Life Balance,1,0,38,13812.0
+1333,2025-04-23,Better Compensation,1,0,20,14172.0
+1360,2025-08-28,Relocation,1,1,108,60048.0
+1372,2026-02-21,Work-Life Balance,1,1,223,82170.0
+1379,2026-01-21,Better Compensation,1,0,5,16710.0
+1380,2026-04-19,Personal Reasons,1,0,43,27684.0
+1389,2026-04-11,Career Growth,1,0,123,37074.0
+1405,2025-02-07,Long Commute,1,0,78,14364.0
+1420,2025-12-31,Personal Reasons,1,1,43,25704.0
+1421,2026-07-22,Career Growth,1,1,96,45318.0
+1427,2025-06-29,Manager Issues,1,0,3,8154.0
+1433,2025-07-28,Relocation,1,0,0,7566.0
+1439,2025-12-03,Manager Issues,1,0,32,26400.0
+1457,2026-07-24,Personal Reasons,1,1,87,60576.0
+1458,2026-01-05,Relocation,1,1,8,21876.0
+1459,2026-07-08,Work-Life Balance,1,1,125,44676.0
+1464,2026-10-15,Work-Life Balance,1,0,29,22332.0
+1467,2025-03-31,Manager Issues,1,0,12,16452.0
+1486,2025-08-22,Work-Life Balance,1,0,23,17454.0
+1487,2025-02-14,Career Growth,1,0,42,34590.0
+1489,2026-06-21,Layoff / Restructuring,0,0,185,27594.0
+1494,2026-01-26,Work-Life Balance,1,0,0,19032.0
+1504,2026-02-07,Relocation,1,0,0,15366.0
+1522,2025-02-09,Work-Life Balance,1,0,94,14172.0
+1534,2026-01-20,Relocation,1,0,54,12108.0
+1537,2025-12-12,Career Growth,1,0,79,24504.0
+1562,2025-07-05,Manager Issues,1,0,111,58284.0
+1569,2026-02-02,Long Commute,1,0,5,12444.0
+1572,2026-08-26,Performance Termination,0,0,398,61014.0
+1573,2026-06-05,Layoff / Restructuring,0,0,61,29130.0
+1604,2025-03-12,Long Commute,1,0,0,14448.0
+1624,2026-09-19,Work-Life Balance,1,0,4,9414.0
+1639,2025-08-24,Career Growth,1,1,145,61836.0
+1645,2025-01-30,Better Compensation,1,0,3,32640.0
+1649,2025-08-30,Performance Termination,0,0,35,12996.0
+1667,2026-04-22,Career Growth,1,1,129,27486.0
+1684,2025-02-07,Work-Life Balance,1,0,48,23934.0
+1691,2025-02-08,Relocation,1,0,91,15930.0
+1692,2025-07-20,Manager Issues,1,0,0,8358.0
+1702,2025-11-30,Work-Life Balance,1,1,30,13650.0
+1714,2026-09-05,Long Commute,1,0,14,9330.0
+1716,2026-02-21,Career Growth,1,1,275,77616.0
+1733,2025-09-15,Career Growth,1,0,17,36804.0
+1734,2026-02-06,Personal Reasons,1,0,0,40410.0
+1747,2025-06-02,Work-Life Balance,1,0,40,13080.0
+1752,2026-03-29,Better Compensation,1,0,19,16560.0
+1758,2025-04-02,Work-Life Balance,1,1,0,51384.0
+1761,2025-03-30,Career Growth,1,1,0,48966.0
+1767,2025-08-13,Performance Termination,0,0,2,14622.0
+1780,2025-10-01,Better Compensation,1,0,0,16074.0
+1783,2026-10-09,Relocation,1,0,13,14388.0
+1792,2026-07-23,Personal Reasons,1,0,60,14052.0
+1797,2025-08-28,Career Growth,1,0,108,34878.0
+1807,2026-02-25,Performance Termination,0,0,85,32076.0
+1809,2026-05-09,Relocation,1,0,117,25278.0
+1818,2026-03-06,Work-Life Balance,1,0,53,12888.0
+1821,2025-12-06,Long Commute,1,1,101,53556.0
+1842,2025-11-23,Performance Termination,0,0,9,17736.0
+1844,2026-01-12,Relocation,1,0,23,14010.0
+1862,2025-09-08,Work-Life Balance,1,0,14,59442.0
+1868,2025-11-15,Personal Reasons,1,1,5,14634.0
+1869,2026-01-03,Career Growth,1,1,90,43884.0
+1876,2025-10-23,Better Compensation,1,0,0,6486.0
+1878,2026-03-31,Personal Reasons,1,1,14,14832.0
+1905,2025-05-06,Long Commute,1,1,48,13842.0
+1907,2026-02-27,Long Commute,1,0,41,15522.0
+1928,2025-10-31,Work-Life Balance,1,0,8,6546.0
+1933,2025-11-14,Manager Issues,1,0,22,59124.0
+1939,2026-08-27,Performance Termination,0,0,48,14592.0
+1944,2025-05-13,Work-Life Balance,1,0,2,17178.0
+1960,2026-10-11,Better Compensation,1,0,57,14202.0
+1967,2026-04-25,Work-Life Balance,1,0,121,33702.0
+1968,2026-04-18,Personal Reasons,1,1,25,62688.0
+2023,2025-10-19,Performance Termination,0,0,8,10740.0
+2027,2025-11-12,Performance Termination,0,0,15,28722.0
+2032,2025-05-30,Manager Issues,1,0,111,14034.0
+2044,2025-11-18,Work-Life Balance,1,0,67,40368.0
+2055,2025-05-15,Manager Issues,1,1,22,65124.0

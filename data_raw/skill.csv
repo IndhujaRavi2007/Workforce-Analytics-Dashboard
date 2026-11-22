@@ -1,0 +1,16 @@
+skill_id,skill_name,category
+1,Python,Technical
+2,SQL,Technical
+3,Excel,Technical
+4,Power BI,Technical
+5,Communication,Soft
+6,Leadership,Soft
+7,Project Management,Soft
+8,Sales Negotiation,Business
+9,Recruitment,Business
+10,Accounting,Business
+11,Customer Support,Business
+12,Digital Marketing,Business
+13,Data Analysis,Technical
+14,Cloud,Technical
+15,Compliance,Business

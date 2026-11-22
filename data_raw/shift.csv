@@ -1,0 +1,4 @@
+shift_id,shift_name,start_time ,end_time,shift_type ,planned_hours 
+1,Morning,06:00,14:00,Rotational,8
+2,General,09:00,17:00,Fixed,8
+3,Night,21:00,05:00,Night,8

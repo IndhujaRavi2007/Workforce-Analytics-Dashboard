@@ -1,0 +1,26 @@
+project_id,project_name,client_id,billing_rate
+1,Project 01,1,1500
+2,Project 02,2,1750
+3,Project 03,3,2000
+4,Project 04,4,2250
+5,Project 05,5,2500
+6,Project 06,6,2750
+7,Project 07,7,1500
+8,Project 08,8,1750
+9,Project 09,1,2000
+10,Project 10,2,2250
+11,Project 11,3,2500
+12,Project 12,4,2750
+13,Project 13,5,1500
+14,Project 14,6,1750
+15,Project 15,7,2000
+16,Project 16,8,2250
+17,Project 17,1,2500
+18,Project 18,2,2750
+19,Project 19,3,1500
+20,Project 20,4,1750
+21,Project 21,5,2000
+22,Project 22,6,2250
+23,Project 23,7,2500
+24,Project 24,8,2750
+25,Project 25,1,1500

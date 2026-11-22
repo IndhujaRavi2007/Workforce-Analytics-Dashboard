@@ -1,0 +1,5 @@
+leave_type_id,leave_type,annual_quota,is_paid
+1,Casual,12,1
+2,Sick,10,1
+3,Earned,15,1
+4,Maternity,90,1
