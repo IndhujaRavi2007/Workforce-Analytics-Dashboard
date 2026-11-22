@@ -68,6 +68,8 @@ Key analysis:
 * My Payroll
 * My performance and Development
 
+Here the Dashboards are created using Row Level Security(RLS) which is identified by their respective EmialID
+
 ## Database Design
 
 MySQL is used to store and manage workforce-related information.
