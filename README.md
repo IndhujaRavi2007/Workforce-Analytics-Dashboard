@@ -108,51 +108,52 @@ The dashboards include workforce metrics such as:
 * Total location and so on.........
 
 ## Project Files
+<pre>
 Workforce Management Analytics System/
 |
-|__.vscode
-|     |__settings.json
-|__data_raw
-|      |__attendance.csv
-|      |__checkin_method.csv
-|      |__client.csv
-|      |__department.csv
-|      |__employee_skill.csv
-|      |__employee.csv
-|      |__exit.csv
-|      |__leave_request.csv
-|      |__leave_type.csv
-|      |__location.csv
-|      |__payroll.csv
-|      |__performance.csv
-|      |__project.csv
-|      |__shift_roster.csv
-|      |__shift.csv
-|      |__skill_requirement.csv
-|      |__skill.csv
-|      |__timesheet.csv
-|      |__training.csv
-|      |__WA_Fn__UseC-HR-Employee-Attrition.csv
-|__PowerBI_Dashboards
-|      |__Workforce Management Project.pbix
-|__python
-|      |__01_build_employees.py
-|      |__02_master_data.py
-|      |__03_generate_attendance.py
-|      |__04_generate_leave_timesheet.py
-|      |__05_generate_payroll_performance.py
-|      |__06_load_staging.py
-|      |__download_data.py
-|__sql
-|    |__01_create_database.sql
-|    |__02_staging.checks.sql
-|    |__03_core_table.sql
-|    |__04_staging_to_core.sql
-|    |__05_mart_table.sql
-|    |__06_mart_to_core.sql
-|__license
-|__wfm_local2.session.sql
-
+├── .vscode
+|      ├── settings.json
+├──data_raw
+|       ├── attendance.csv
+|       ├── checkin_method.csv
+|       ├── client.csv
+|       ├── department.csv
+|       ├── employee_skill.csv
+|       ├── employee.csv
+|       ├── exit.csv
+|       ├── leave_request.csv
+|       ├── leave_type.csv
+|       ├── location.csv
+|       ├── payroll.csv
+|       ├── performance.csv
+|       ├── project.csv
+|       ├── shift_roster.csv
+|       ├── shift.csv
+|       ├── skill_requirement.csv
+|       ├── skill.csv
+|       ├── timesheet.csv
+|       ├── training.csv
+|       ├── WA_Fn__UseC-HR-Employee-Attrition.csv
+├──PowerBI_Dashboards
+|       ├── Workforce Management Project.pbix
+├──python
+|       ├── 01_build_employees.py
+|       ├── 02_master_data.py
+|       ├── 03_generate_attendance.py
+|       ├── 04_generate_leave_timesheet.py
+|       ├── 05_generate_payroll_performance.py
+|       ├── 06_load_staging.py
+|       ├── download_data.py
+├── sql
+|     ├── 01_create_database.sql
+|     ├── 02_staging.checks.sql
+|     ├── 03_core_table.sql
+|     ├── 04_staging_to_core.sql
+|     ├── 05_mart_table.sql
+|     ├── 06_mart_to_core.sql
+├── license
+├── wfm_local2.session.sql
+</pre>
 ## Project Outcomes
 
 * Developed interactive workforce dashboards for three user groups.
