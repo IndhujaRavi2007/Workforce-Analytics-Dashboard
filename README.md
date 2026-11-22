@@ -1,40 +1,28 @@
-# Workforce-Analytics-Dashboard
-Project Overview
+###  Workforce-Analytics-Dashboard
+## Project Overview
 
 The Workforce Management Analytics System is a data analytics project developed to transform workforce data into meaningful business insights using Power BI and MySQL.
 
 The project provides interactive dashboards designed for HR professionals, managers, and employees to monitor workforce performance, attendance, productivity, employee engagement, and organizational health.
-Objectives
 
-Analyze overall workforce distribution and demographics.
+## Objectives
 
-Monitor employee attendance, absenteeism, and late arrivals.
+* Analyze overall workforce distribution and demographics.
 
-Evaluate employee performance and productivity.
+* Monitor employee attendance, absenteeism, and late arrivals.
 
-Analyze recruitment and employee attrition.
+* Evaluate employee performance and productivity.
 
-Monitor leave management, shifts, and overtime.
+* Analyze recruitment and employee attrition.
 
-Support data-driven workforce management decisions.
-Technologies Used
+* Monitor leave management, shifts, and overtime.
 
-Technology
+* Support data-driven workforce management decisions.
+  
+## Technologies Used
 
-Purpose
-
-Power BI
-
-Interactive dashboards and data visualization
-
-MySQL
-
-Database management
-
-SQL
-
-Data querying and transformation
-
-DAX
-
-KPI calculations and analytical measures
+# Technology                                            Purpose 
+  Power BI                               Interactive dashboards and data visualization
+  MySQL                                           Database management
+  SQL                                      Data querying and transformation
+  DAX                                   KPI calculations and analytical measures
