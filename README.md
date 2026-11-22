@@ -152,3 +152,61 @@ Workforce Management Analytics System/
 |    |__06_mart_to_core.sql
 |__license
 |__wfm_local2.session.sql
+
+## Project Outcomes
+
+* Developed interactive workforce dashboards for three user groups.
+* Designed analytical KPIs using DAX.
+* Used SQL and MySQL for workforce data management.
+* Converted raw workforce data into actionable insights.
+* Enabled data-driven HR and management analysis.
+
+## License
+This project is licensed under the MIT License.
+
+## Project Files
+Workforce Management Analytics System/
+├── .vscode/
+│   └── settings.json
+├── data_raw/
+│   ├── attendance.csv
+│   ├── checkin_method.csv
+│   ├── client.csv
+│   ├── department.csv
+│   ├── employee.csv
+│   ├── employee_skill.csv
+│   ├── exit.csv
+│   ├── leave_request.csv
+│   ├── leave_type.csv
+│   ├── location.csv
+│   ├── payroll.csv
+│   ├── performance.csv
+│   ├── project.csv
+│   ├── shift.csv
+│   ├── shift_roster.csv
+│   ├── skill.csv
+│   ├── skill_requirement.csv
+│   ├── timesheet.csv
+│   ├── training.csv
+│   └── WA_Fn-UseC_-HR-Employee-Attrition.csv
+├── PowerBI_Dashboards/
+│   └── Workforce Management Project.pbix
+├── python/
+│   ├── 01_build_employees.py
+│   ├── 02_master_data.py
+│   ├── 03_generate_attendance.py
+│   ├── 04_generate_leave_timesheet.py
+│   ├── 05_generate_payroll_performance.py
+│   ├── 06_load_staging.py
+│   └── download_data.py
+├── sql/
+│   ├── 01_create_database.sql
+│   ├── 02_staging_checks.sql
+│   ├── 03_core_table.sql
+│   ├── 04_staging_to_core.sql
+│   ├── 05_mart_table.sql
+│   └── 06_mart_to_core.sql
+├── .env.example
+├── .gitignore
+├── LICENSE
+└── README.md
